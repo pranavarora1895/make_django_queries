@@ -51,6 +51,9 @@ j= Blog.objects.filter(tagline__startswith="Lets")
 >>> j
 <QuerySet [<Blog: Quickstart>, <Blog: Flask>]>
 ```
+
+Get the query set file [here](https://github.com/pranavarora1895/make_django_queries/blob/main/queries.txt).
+
 * Follow Me On Instagram at [Pranav Arora](https://www.instagram.com/arorapranav187)
 * Lets Get Connected on Linkedin at [Pranav Arora](https://www.linkedin.com/in/pranav-arora-354b71bb/)
 
